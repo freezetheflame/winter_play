@@ -1,0 +1,3 @@
+C:/Users/shenjiawei/CLionProjects/winter_play/cmake-build-debug/CMakeFiles/winter_play.dir
+C:/Users/shenjiawei/CLionProjects/winter_play/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shenjiawei/CLionProjects/winter_play/cmake-build-debug/CMakeFiles/rebuild_cache.dir
